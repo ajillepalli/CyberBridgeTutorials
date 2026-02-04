@@ -6,7 +6,7 @@ The project is to bridge the gap between the classroom and the required industry
 These tutorials are to be reproducible and opensource for cyber security learners to preform. Learners will be able to received guided knowledge on the tutorial topic and exposure to new tools used in the cyber security industry.
 
 ## Disclaimer
-Tutorials are meant to be used a learning resource and used as such.
+Tutorials are meant to be used a learning resource.
 
 ## Installation
 
